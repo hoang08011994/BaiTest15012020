@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+.main-content
+{
+    margin-top: 200px;
+    
+}
+body{
+    background:gray;
+}
+.container{
+    background: white;
+    height: auto;
+}
+.hinh1{
+    width: 200px;
+    height: 200px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.header-main{
+    text-align: center;
+}
+.header-main button{
+    margin-top: 50px;
+}
